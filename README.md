@@ -1,6 +1,5 @@
 
-## Welcome to the showdown between two 
-## bias detection techniques 
+## Welcome to the showdown between two bias detection techniques 
 &nbsp;
 &nbsp;
 &nbsp;
