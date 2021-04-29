@@ -1,7 +1,3 @@
----
-title: "Welcome"
-output: html_document
----
 
 ## Welcome to the showdown between two 
 ## bias detection techniques 
