@@ -3,6 +3,9 @@
 &nbsp;
 &nbsp;
 
+The link to the app:
+https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
+
 
 This Shiny application allows direct comparison between two bias detection techniques:  
 p-curve and z-curve. Bias detection research enables researchers to recover valuable  
