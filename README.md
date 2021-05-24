@@ -6,6 +6,8 @@
 Here is a link to the app:
 https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
+If you have any other simulation techniques to propose that I could add to the app to make its results more robust,
+please contact me at hplisiecki@gmail.com
 
 ## Code Book:
 
