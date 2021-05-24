@@ -1,0 +1,25 @@
+---
+title: "Conclusion"
+output: html_document
+---
+
+
+## Here you can easily compare the power estimates
+## made on the basis of your simulations
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+On this page you can see a curtailed version of the results from the two previous simulation pages.  
+It is meant to help you compare the power estimates. The conclusion is for you to throw, as the values  
+below will change depending on what specification of the simulations you have chosen on the previous pages.  
+
+However, a good rule of thumb is to first read the real power estimate, and then see whether it is included   
+in the confidence intervals provided by either technique. Remember to use the "Estimated Discovery Rate"  
+(EDR) in the case of z-curve. Bear in mind that the higher the number of samples, the more precise the   
+estimate of the real power.    
+
+
+#### Carter and colleagues (2019) simulation results:
