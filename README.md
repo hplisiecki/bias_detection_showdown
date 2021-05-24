@@ -35,7 +35,7 @@ https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
 
 
-### Sources:
+## Sources:
 
 https://replicationindex.com/category/z-curve/  
 
