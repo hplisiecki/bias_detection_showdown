@@ -1,7 +1,7 @@
 
 source('setup.R')
-source('carter_sim.R')
-source('renkewitz_sim.R')
+source('simulation_functions/carter_sim.R')
+source('simulation_functions/renkewitz_sim.R')
 
 ###############################################################################################
 #                              The Display Part of the App
@@ -24,7 +24,7 @@ ui <- navbarPage("The Bias Detection Showdown",   # title
              fluidPage(column(8,
                               offset = 4,
                               align="left",
-                             includeMarkdown('introduction.Rmd')))
+                             includeMarkdown('markdown_files/introduction.Rmd')))
          ),
 
 
@@ -175,7 +175,7 @@ ui <- navbarPage("The Bias Detection Showdown",   # title
              fluidPage(column(8,
                               offset = 4,
                               align="left",
-                              includeMarkdown('conclusion1.Rmd')),
+                              includeMarkdown('markdown_files/conclusion1.Rmd')),
                        column(3,
                               offset = 4,
                               allign = "left",
@@ -183,7 +183,7 @@ ui <- navbarPage("The Bias Detection Showdown",   # title
                        column(8,
                               offset = 4,
                               align="left",
-                              includeMarkdown('conclusion2.Rmd')),
+                              includeMarkdown('markdown_files/conclusion2.Rmd')),
                        column(3,
                               offset = 4,
                               allign = "left",
