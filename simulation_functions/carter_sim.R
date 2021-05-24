@@ -4,7 +4,7 @@
 # Source: https://github.com/nicebread/meta-showdown
 
 # load censoring function
-source("censorFunc.R")
+source("simulation_functions/censorFunc.R")
 
 # get a simulated per-group sample size that follows the distribution of empirical sample sizes
 # (see folder "Empirical sample size distributions")
