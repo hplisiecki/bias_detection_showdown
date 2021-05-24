@@ -7,9 +7,8 @@ source('renkewitz_sim.R')
 #                              The Display Part of the App
 #                             #############################
 #   This is the part of code which sets the user interface (UI) of the app. It displays it's
-#   content in three tabs, one for introduction, and two additional ones for the two different
-#   simulation techniques. The latter two allow the user to choose simulation specifications
-#   and display the results of the bias detection techniques.
+#   content in four tabs, one for introduction, two additional ones for the two different
+#   simulation techniques, and one for conclusion. 
 
 ui <- navbarPage("The Bias Detection Showdown",   # title
 
