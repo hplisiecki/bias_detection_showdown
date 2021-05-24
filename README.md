@@ -19,7 +19,7 @@ https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
 	2c. renkewitz_sim.R - A file with the simulation functions from the Renkewitz and Keiner article (2019) - slightly modified
  
-3. rmarkdown_files - contain files used for text display
+3. markdown_files - contain files used for text display
        
 	3a. conclusion1.Rmd - An Rmarkdown file used to display text in the Shiny app
 
