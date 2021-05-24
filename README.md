@@ -9,23 +9,23 @@ https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
 ## Code Book:
 
-app.R - A file with the main code for the shiny app.
+1. app.R - A file with the main code for the shiny app.
 
-simulation_functions - contains files used for data simulation
+2. simulation_functions - contains files used for data simulation
 
-       carter_sim.R - A file with the simulation code from the Carter and colleagues article (2019)
+2a.    carter_sim.R - A file with the simulation code from the Carter and colleagues article (2019)
 
-       censor_func.R - A file with the simulation biasing functions from the Carter and colleagues article (2019)
+2b.    censor_func.R - A file with the simulation biasing functions from the Carter and colleagues article (2019)
 
-       renkewitz_sim.R - A file with the simulation functions from the Renkewitz and Keiner article (2019) - slightly modified
+2c.    renkewitz_sim.R - A file with the simulation functions from the Renkewitz and Keiner article (2019) - slightly modified
  
-rmarkdown_files
+3. rmarkdown_files - contain files used for text display
        
-       conclusion1.Rmd - An Rmarkdown file used to display text in the Shiny app
+3a.    conclusion1.Rmd - An Rmarkdown file used to display text in the Shiny app
 
-       conclusion2.Rmd - Another Rmarkdown file with the same function
+3b.    conclusion2.Rmd - Another Rmarkdown file with the same function
 
-       introduction.Rmd - Another Rmarkdown file with the same function
+3c.    introduction.Rmd - Another Rmarkdown file with the same function
        
 setup.R - An R file which is used to centralize package attachment
 
