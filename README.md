@@ -13,23 +13,23 @@ https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
 2. simulation_functions - contains files used for data simulation
 
-2a. carter_sim.R - A file with the simulation code from the Carter and colleagues article (2019)
+	2a. carter_sim.R - A file with the simulation code from the Carter and colleagues article (2019)
 
-2b. censor_func.R - A file with the simulation biasing functions from the Carter and colleagues article (2019)
+	2b. censor_func.R - A file with the simulation biasing functions from the Carter and colleagues article (2019)
 
-2c. renkewitz_sim.R - A file with the simulation functions from the Renkewitz and Keiner article (2019) - slightly modified
+	2c. renkewitz_sim.R - A file with the simulation functions from the Renkewitz and Keiner article (2019) - slightly modified
  
 3. rmarkdown_files - contain files used for text display
        
-3a. conclusion1.Rmd - An Rmarkdown file used to display text in the Shiny app
+	3a. conclusion1.Rmd - An Rmarkdown file used to display text in the Shiny app
 
-3b. conclusion2.Rmd - Another Rmarkdown file with the same function
+	3b. conclusion2.Rmd - Another Rmarkdown file with the same function
 
-3c. introduction.Rmd - Another Rmarkdown file with the same function
+	3c. introduction.Rmd - Another Rmarkdown file with the same function
        
-setup.R - An R file which is used to centralize package attachment
+4. setup.R - An R file which is used to centralize package attachment
 
-renv.lock - A file with the package library documentation
+5. renv.lock - A file with the package library documentation
 
 
 
