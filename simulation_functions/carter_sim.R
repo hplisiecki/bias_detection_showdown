@@ -1,6 +1,6 @@
 
 
-# A file used to generate data fgor the Carter and colleagues simulation study (2019)
+# A file used to generate data for the Carter and colleagues simulation study (2019)
 # Source: https://github.com/nicebread/meta-showdown
 
 # load censoring function
