@@ -7,7 +7,7 @@ Here is a link to the app:
 https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
 
-## Files Guide:
+## Code Book:
 
 app.R - A file with the main code for the shiny app.
 
