@@ -31,8 +31,6 @@ https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 
 5. renv.lock - A file with the package library documentation
 
-6. renv file - all of the files needed to recreate the package library
-
 
 
 
