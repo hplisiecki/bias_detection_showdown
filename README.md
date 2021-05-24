@@ -9,6 +9,8 @@ https://hubertplisiecki.shinyapps.io/pcurve_vs_zcurve/
 If you have any other simulation techniques to propose that I could add to the app to make its results more robust,
 please contact me at hplisiecki@gmail.com
 
+Please se the app code comments for an in depth idea of how the app works and what is the simulation workflow.
+
 ## Code Book:
 
 1. app.R - A file with the main code for the shiny app.
